@@ -18,7 +18,7 @@ Results:
 It will be in the form of EMOTAGS.
 
 To open the project:
-Clone the project using github desktop or download zip file
-open the project directory in the cmd or terminal
-Type command:  py manage.py runserver
-You will get the server address go to browser and paste it to see the webpage.
+1.Clone the project using github desktop or download zip file
+2.Open the project directory in the cmd or terminal
+3.Type command:  py manage.py runserver
+4.You will get the server address go to browser and paste it to see the webpage.
